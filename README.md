@@ -1,6 +1,6 @@
 # PIXCAP FRONTEND
 
-> TS code task
+-- Frontend Test  -- 
 
 ## How to Set up
 
